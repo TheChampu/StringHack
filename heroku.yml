@@ -1,0 +1,5 @@
+build:
+  docker:
+    worker: Dockerfile
+run:
+  thechampu: python3 -m Hack

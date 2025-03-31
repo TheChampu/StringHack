@@ -1,0 +1,42 @@
+{
+  "name": "StringHack",
+  "description": "hack string",
+  "logo": "",
+  "repository": "https://github.com/TheChampu/StringHack",
+  "env": {
+    "API_ID": {
+      "description": "ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ https://my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ https://my.telegram.org",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "ɢᴇᴛ ʙᴏᴛ's ᴛᴏᴋᴇɴ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ",
+      "required": true
+    },
+    "START_IMG_URL": {
+      "description": "ғɪʟʟ ʜᴇʀᴇ ʏᴏᴜʀ sᴛᴀʀᴛ ɪᴍᴀɢᴇ ᴜʀʟ, ɢᴇᴛ ɪᴛ ғʀᴏᴍ @TheChampuBot ᴜsɪɴɢ /tgm ᴄᴏᴍᴍᴀɴᴅ",
+      "value": "",
+      "required": true
+    },
+    "SUDOERS": {
+      "description": "ᴘᴜᴛ ʏᴏᴜʀ ʙᴏᴛ's ᴜsᴇʀɴᴀᴍᴇ",
+      "required": true
+    },
+    "MUST_JOIN": {
+      "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ.",
+      "required": true
+    },
+    "LOG_GROUP_ID": {
+      "description": "ʏᴏᴜʀ ʟᴏɢ ɢʀᴏᴜᴘ ɪᴅ, ᴀᴅᴅ ʏᴏᴜʀ ʙᴏᴛ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs!",
+      "required": true
+    },
+    "MONGO_URL": {
+      "description": "ɢᴇᴛ ᴀ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ https://cloud.mongodb.com.",
+      "required": true
+    }
+  },
+  "stack": "heroku-22"
+}

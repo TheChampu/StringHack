@@ -1,0 +1,1 @@
+thechampu: python -m Hack
