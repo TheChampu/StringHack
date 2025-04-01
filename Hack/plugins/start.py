@@ -12,7 +12,7 @@ async def start(event):
     mention = f"[{event.sender.first_name}](tg://user?id={id})"
     TEXT = "Hey {}, I am a Session Hack Bot Supporting Both Pyrogram and Telethon Session String. Type /hack to see the menu"
     updates_url = "https://t.me/TheChampu"
-    support_url = "https://t.me/FenuZone"
+    support_url = "https://t.me/ShivanshuHUB"
     owner_url = "https://t.me/itsMeShivanshu"
     chat_url = "https://t.me/TheChampuClub"
     help_button = Button.inline("ʜᴀᴄᴋ 📲", data="help_callback")
