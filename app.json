@@ -22,11 +22,11 @@
       "required": true
     },
     "SUDOERS": {
-      "description": "ᴘᴜᴛ ʏᴏᴜʀ ʙᴏᴛ's ᴜsᴇʀɴᴀᴍᴇ",
+      "description": "ᴘᴜᴛ ʏᴏᴜʀ ɪᴅ ʜᴇʀᴇ ᴡʜᴏ ᴡɪʟʟ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs.",
       "required": true
     },
     "MUST_JOIN": {
-      "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ.",
+      "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ.",
       "required": true
     },
     "LOG_GROUP_ID": {
