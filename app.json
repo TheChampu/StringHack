@@ -16,6 +16,10 @@
       "description": "ɢᴇᴛ ʙᴏᴛ's ᴛᴏᴋᴇɴ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ",
       "required": true
     },
+    "SUDOERS": {
+      "description": "ᴘᴜᴛ ʏᴏᴜʀ ɪᴅ ʜᴇʀᴇ ᴡʜᴏ ᴡɪʟʟ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs.",
+      "required": true
+    },
     "LOG_GROUP_ID": {
       "description": "ʏᴏᴜʀ ʟᴏɢ ɢʀᴏᴜᴘ ɪᴅ, ᴀᴅᴅ ʏᴏᴜʀ ʙᴏᴛ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs!",
       "required": true
